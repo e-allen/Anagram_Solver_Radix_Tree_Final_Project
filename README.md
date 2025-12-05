@@ -53,6 +53,7 @@ To compile and run this project, you will need a C++ compiler (like g++).
 
 3.  **Compile the source code:**
     ```bash
+    mkdir build
     cd build
     cmake ..
     make
